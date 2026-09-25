@@ -1,4 +1,4 @@
-https://drive.google.com/drive/folders/1wzQRA_VUS-hhFVlGrJAOCdPnNTui5kmo?usp=drive_link
+A link will be posted for tesseract if a website or download link that is reliable can be found
 
 this link is for downloading tesseract directly, if you know how to use command prompt or powershell you can go directly to tesseracts github, and tesseract is required for this. Tesseract must be in the same folder as the other 2 files
 
