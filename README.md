@@ -1,3 +1,7 @@
+https://drive.google.com/drive/folders/1wzQRA_VUS-hhFVlGrJAOCdPnNTui5kmo?usp=drive_link
+
+this link is for downloading tesseract directly, if you know how to use command prompt or powershell you can go directly to tesseracts github, and tesseract is required for this
+
 first step before even downloading. make sure you have autohotkey installed. this uses autohotkey v1
 
 Next make a folder for both the config and Fishing Sim.ahk
